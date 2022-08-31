@@ -90,7 +90,7 @@ header{
     transition: 0.4s;
 }
 section.main{
-    background-image: url(branco.jpg);
+    background-image: url(/img/branco.jpg);
     min-height: 500px;
     background-position: center;
     background-size: cover;
@@ -317,4 +317,8 @@ section.depoimentos .depoimentos-chamada{
     .curiosidades{
         flex-wrap: wrap;
     }
+    .biofragia-img{
+        width: 50%;
+    }
+   
 }
